@@ -17,7 +17,7 @@ Se tutto è ok stampare “Accesso riuscito”, altrimenti “Accesso negato” 
 <body>
 
     <h5>Inserisci i dati tramite la barra di ricerca</h5>
-    <p>Request: name: Min 3 caratteri / mail: valida con @ / age: in numero</p>
+    <p>Request: </br> name: più di 3 caratteri / mail: valida con @ e . / age: in numero</p>
 
 <?php
 
